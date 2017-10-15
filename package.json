@@ -1,0 +1,32 @@
+{
+  "name": "xexeucarouselwebcomponent",
+  "version": "0.0.1",
+  "description": "Carousel built with native web technologies",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server 'src' --files 'src'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnymichel/xexeuCarousel-CustomElement.git"
+  },
+  "keywords": [
+    "Web",
+    "Components",
+    "Custom",
+    "Elements",
+    "Carousel",
+    "HTML5",
+    "ES6"
+  ],
+  "author": "Jhonny Michel <jhonnymichel@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhonnymichel/xexeuCarousel-CustomElement/issues"
+  },
+  "homepage": "https://github.com/jhonnymichel/xexeuCarousel-CustomElement#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
